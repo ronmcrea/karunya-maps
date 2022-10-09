@@ -1,0 +1,30 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "ATM",
+        "description": "ATM"
+      },
+        "geometry": {
+          "coordinates": [76.7442, 10.9366],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "ATM",
+        "description": "ATM"
+      },
+        "geometry": {
+          "coordinates": [76.7405, 10.9369],
+          "type": "Point"
+        }
+      }
+      
+    ],
+    "type": "FeatureCollection"
+  }
+
+  

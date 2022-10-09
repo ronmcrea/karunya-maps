@@ -1,0 +1,128 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Administration Block",
+        "description": "Administration office",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7442, 10.9360],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "ECE / Robotics / Bio Tech / Media and Communication Department",
+        "description": "ECE dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7430, 10.9362],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Agriculture / EEE / Bio Medical / Forensic Department",
+        "description": "Agri dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7414, 10.9363],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "CTC / LIBRARY",
+        "description": "CTC/LIBRARY",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7434, 10.9352],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "CSE Department",
+        "description": "CSE dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7432, 10.9336],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Aerospace Department",
+        "description": "Aerspace dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7449, 10.9343],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Old Dove Building",
+        "description": "Old Dove Building",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.7427, 10.9353],
+          "type": "Point"
+        }
+      },
+      
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Civil Department",
+        "description": "civil dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.744150, 10.935317],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Mechanical Department",
+        "description": "Mechanical dept",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.744050, 10.934500],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+      "properties": {
+        "title": "Karunya Media Center",
+        "description": "Karunya Media Center",
+        "icon": "theatre-15"
+      },
+        "geometry": {
+          "coordinates": [76.743200, 10.934600],
+          "type": "Point"
+        }
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+
+  

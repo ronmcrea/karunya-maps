@@ -1,0 +1,47 @@
+body{
+    position: absolute;
+min-width: 100%;
+min-height:100%;
+
+}
+
+.container-1 {
+    text-align: center;
+}
+
+.Heading {
+
+font-family: 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 100%;
+position: relative;
+top: 48px;
+/* identical to box height, or 26px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.container-2-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.container-2-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
