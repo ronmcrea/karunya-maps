@@ -6,7 +6,7 @@ import axios from "axios";
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
 import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css'; 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoibGVnaW9uLTIzMTQiLCJhIjoiY2wzd3pqeTE4MDA4ejNicGpqYmczd3htOSJ9.6XlFQZGcvDcwBqfj3SiHqQ";
+  "YOUR ACCESS TOKEN";
 
 const MAP = () => {
   const mapContainerRef = useRef(null);
@@ -16,7 +16,7 @@ const MAP = () => {
   const [zoom, setZoom] = useState(15.5);
   const [data, setData] = useState(null);
   const getData = async () => {
-    const value = await axios.get(`http://192.168.2.176:4321`);
+    const value = await axios.get('API LINK');
     console.log(value);
     setData(value.data[0]);
   };
